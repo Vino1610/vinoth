@@ -2,8 +2,8 @@
   "development": {
     "username": "admin",
     "password": "password",
-    "database": "database-1",
-    "host": "database-1.crs7rfd3f0uy.ap-south-1.rds.amazonaws.com",
+    "database": "database-2",
+    "host": "database-2.crs7rfd3f0uy.ap-south-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
